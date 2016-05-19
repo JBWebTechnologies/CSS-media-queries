@@ -1,0 +1,28 @@
+          @media only screen and (max-width: 480px){
+                .main1{width:300px;} 
+                .main2{width:300px; }                                                                                              
+                .main3{width:300px; }                                                                                                 
+                #mainmian{
+                    padding:0px;
+                }
+                main3 span{
+                    margin-left: 0px !important;
+                }
+            }  
+             @media only screen and (min-width : 485px) and (max-width: 600px){
+                .main1{width:100%;} 
+                .main2{width:100%; }                                                                                              
+                .main3{ float: right;     margin-right: 0;     width:77%; }                                                                                                 
+                #mainmian{
+                    padding:0px;
+                }
+                .main3 img{width: 39px !important;height: auto !important;}
+            } 
+
+
+
+@media (max-width: 768px) {
+  .example {
+    font-size: 28px;
+  }
+}
